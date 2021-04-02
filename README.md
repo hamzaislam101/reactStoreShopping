@@ -2,9 +2,9 @@
 
 Ongoing... Not completed
 
-This project has two parts.
-1.React App
-2.DotNet Core API
+This project has two parts.<br />
+1.React App<br />
+2.DotNet Core API<br />
 
 For API, Just set your Connection Strings in appsettings.json and add-migrations
 
